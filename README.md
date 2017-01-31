@@ -1,2 +1,3 @@
 # MAphylotypic
-Matlab code for Zalts and Yanai 2016 (Nature Ecology and Evolution)
+Matlab code for Zalts and Yanai 2017 (Nature Ecology and Evolution)
+The code for "zavit" is also provided spereatley
